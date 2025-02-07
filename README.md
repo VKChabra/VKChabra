@@ -12,8 +12,6 @@
 ## Full-stack JavaScript developer
 
 - 💙 <b>Open to work</b> 💛
-- 🌱 Looking for front-end or full-stack development.
-- ⚡ Free time? Who does even have it?
 - 📫 Reaching me out: vkchabraww@gmail.com
 - 🖥️ A computer whiz
 - 🎮 Absolute gamer
