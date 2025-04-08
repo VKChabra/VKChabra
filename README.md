@@ -9,7 +9,7 @@
 <div>
 <div style="font-size: 16px;">
 
-## Full-stack JavaScript developer
+## Front-end developer
 
 - 💙 <b>Open to work</b> 💛
 - 📫 Reaching me out: vkchabraww@gmail.com
